@@ -6,6 +6,8 @@
 
 ### Usage of our code
 
+Images of 16 bit RAW image format must be saved in a directory named 'hdr' which is saved in the same directory as 'hw1.py'.
+
 ```bash
 python hw1.py [-h] [-a, --alignment] [-d, --dodge_type]
 ```
